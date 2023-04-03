@@ -1,4 +1,4 @@
-![Open Source at Ekzo](https://github.com/ekzo-lab/.github/blob/main/open-at-ekzo0.png) 
+![Open Source at Ekzo](https://github.com/ekzo-lab/.github/blob/main/open-at-ekzo0.jpg) 
 
 ## Get Involved
 
